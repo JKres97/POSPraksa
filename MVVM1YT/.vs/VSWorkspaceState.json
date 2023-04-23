@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\reservoom",
+    "\\reservoom\\src",
+    "\\reservoom\\src\\Reservoom",
+    "\\reservoom\\src\\Reservoom\\Converters",
+    "\\reservoom\\src\\Reservoom\\DbContexts",
+    "\\reservoom\\src\\Reservoom\\DTOs",
+    "\\reservoom\\src\\Reservoom\\Exceptions",
+    "\\reservoom\\src\\Reservoom\\HostBuilders",
+    "\\reservoom\\src\\Reservoom\\Migrations"
+  ],
+  "SelectedNode": "\\reservoom\\src\\Reservoom\\Migrations\\ReservoomDbContextModelSnapshot.cs",
+  "PreviewInSolutionExplorer": false
+}
